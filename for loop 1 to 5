@@ -1,0 +1,5 @@
+numbers = [1, 2, 3, 4, 5]
+
+# Iterate over the list of numbers and print each number
+for number in numbers:
+    print(number)
